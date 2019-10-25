@@ -3,7 +3,9 @@
   "version": "0.0.0",
   "description": "Draw dot-grid backgrounds using CSS Paint API",
   "main": "dot-grid.js",
-  "scripts": {},
+  "scripts": {
+    "build": "rollup -c"
+  },
   "keywords": [
     "css-houdini",
     "css",
@@ -12,6 +14,7 @@
   "author": "Arnelle Balane <arnellebalane@gmail.com> (https://arnellebalane.com/)",
   "license": "MIT",
   "devDependencies": {
-    "rollup": "1.25.2"
+    "rollup": "1.25.2",
+    "rollup-plugin-terser": "5.1.2"
   }
 }
