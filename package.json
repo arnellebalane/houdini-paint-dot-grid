@@ -10,5 +10,8 @@
     "paint-api"
   ],
   "author": "Arnelle Balane <arnellebalane@gmail.com> (https://arnellebalane.com/)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "1.25.2"
+  }
 }
