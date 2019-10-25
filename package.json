@@ -1,0 +1,14 @@
+{
+  "name": "houdini-dot-grid",
+  "version": "0.0.0",
+  "description": "Draw dot-grid backgrounds using CSS Paint API",
+  "main": "dot-grid.js",
+  "scripts": {},
+  "keywords": [
+    "css-houdini",
+    "css",
+    "paint-api"
+  ],
+  "author": "Arnelle Balane <arnellebalane@gmail.com> (https://arnellebalane.com/)",
+  "license": "MIT"
+}
