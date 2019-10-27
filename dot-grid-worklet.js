@@ -13,7 +13,7 @@ class DotGridWorket {
     const dotSpacing = props.get('--dot-spacing').value;
     const dotColor = props.get('--dot-color').toString();
 
-    const radius = Math.ceil(dotSize / 2);
+    const radius = dotSize / 2;
     const rows = Math.ceil((size.height - radius) / (dotSize + dotSpacing));
     const cols = Math.ceil((size.width - radius) / (dotSize + dotSpacing));
 
