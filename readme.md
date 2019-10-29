@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="logo.svg" alt="houdini-dot-grid logo">
+</div>
+
+
 # Houdini Dot Grid
 
 Draw dot-grid backgrounds using [CSS Paint API](https://houdini.glitch.me/paint).
