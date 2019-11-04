@@ -1,6 +1,6 @@
 {
   "name": "houdini-paint-dot-grid",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Draw dot-grid backgrounds using CSS Paint API",
   "main": "dot-grid.js",
   "scripts": {
