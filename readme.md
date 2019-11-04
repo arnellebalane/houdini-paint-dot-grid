@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="logo.svg" alt="houdini-dot-grid logo">
+  <img src="logo.svg" alt="houdini-paint-dot-grid logo">
 </div>
 
 
-# Houdini Dot Grid
+# Houdini `paint(dot-grid)`
 
 Draw dot-grid backgrounds using [CSS Paint API](https://houdini.glitch.me/paint).
 
@@ -18,16 +18,16 @@ builds are provided, and can be used as follows:
 **ES Module:**
 
 ```html
-<script type="module" src="https://unpkg.com/houdini-dot-grid/dist/dot-grid.esm.js"></script>
+<script type="module" src="https://unpkg.com/houdini-paint-dot-grid/dist/dot-grid.esm.js"></script>
 <script type="module">
-  import 'https://unpkg.com/houdini-dot-grid/dist/dot-grid.esm.js';
+  import 'https://unpkg.com/houdini-paint-dot-grid/dist/dot-grid.esm.js';
 </script>
 ```
 
 **UMD:**
 
 ```html
-<script src="https://unpkg.com/houdini-dot-grid/dist/dot-grid.umd.js">
+<script src="https://unpkg.com/houdini-paint-dot-grid/dist/dot-grid.umd.js">
 ```
 
 Loading the JavaScript file registers custom properties that can be used to
