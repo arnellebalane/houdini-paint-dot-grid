@@ -4,6 +4,7 @@
   "description": "Draw dot-grid backgrounds using CSS Paint API",
   "main": "dot-grid.js",
   "scripts": {
+    "test": "echo 'houdini-paint-dot-grid'",
     "clean": "rm -rf dist",
     "build": "rollup -c"
   },
