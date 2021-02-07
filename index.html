@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
   <head>
     <title>Houdini Dot Grid Demo</title>
@@ -20,5 +20,8 @@
     <div></div>
 
     <script src="./dot-grid.js"></script>
+    <script>
+      CSS.paintWorklet.addModule('./dot-grid-worklet.js');
+    </script>
   </body>
 </html>
